@@ -6,7 +6,7 @@ const transactionRoutes = require('./src/routes/transactionRoutes')
 const resetRoutes       = require('./src/routes/resetRoutes')
 
 const app = express();
-const PORT = process.env.PORT || 3001;  // Gunakan environment variable
+const PORT = process.env.PORT || 3002;  // Gunakan environment variable
 
 app.use(cors({
     origin: [
