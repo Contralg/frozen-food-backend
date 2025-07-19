@@ -6,7 +6,7 @@
     "product_description": "Nugget Enak Indonesia",
     "product_price": "13000",
     "product_stock": 46,
-    "product_icon": "file:///H:/Project%20Folder/Syakira-Frozen-Food/frontend/dist/assets/NuggetIcon-CrpiGglT.svg"
+    "product_icon": "/portofolio2/assets/NuggetIcon-CrpiGglT.svg"
   },
   {
     "product_id": "PRD-2",
@@ -33,6 +33,6 @@
     "product_description": "Dimsum Indo",
     "product_price": "3500",
     "product_stock": 80,
-    "product_icon": "file:///H:/Project%20Folder/Syakira-Frozen-Food/frontend/dist/assets/DimsumIcon-CmBWmO4v.svg"
+    "product_icon": "/portofolio2/assets/DimsumIcon-CmBWmO4v.svg"
   }
 ]
