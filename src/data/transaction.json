@@ -1,0 +1,2082 @@
+[
+  {
+    "transaction_id": "TRNS-1",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 1
+      }
+    ],
+    "transaction_price": 17000,
+    "transaction_cash": "17000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T05:42:00Z"
+  },
+  {
+    "transaction_id": "TRNS-2",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 5
+      }
+    ],
+    "transaction_price": 37000,
+    "transaction_cash": "42000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-29T08:03:00Z"
+  },
+  {
+    "transaction_id": "TRNS-3",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": 1
+      }
+    ],
+    "transaction_price": 10000,
+    "transaction_cash": "10000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-29T02:09:00Z"
+  },
+  {
+    "transaction_id": "TRNS-4",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": "5"
+      }
+    ],
+    "transaction_price": 77500,
+    "transaction_cash": "77500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-29T21:54:00Z"
+  },
+  {
+    "transaction_id": "TRNS-5",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "3"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 57000,
+    "transaction_cash": "62000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-25T11:18:00Z"
+  },
+  {
+    "transaction_id": "TRNS-6",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 76000,
+    "transaction_cash": "77000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-25T12:08:00Z"
+  },
+  {
+    "transaction_id": "TRNS-7",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": "3"
+      }
+    ],
+    "transaction_price": 30000,
+    "transaction_cash": "30000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T11:18:00Z"
+  },
+  {
+    "transaction_id": "TRNS-8",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": "4"
+      }
+    ],
+    "transaction_price": 76000,
+    "transaction_cash": "81000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-29T03:55:00Z"
+  },
+  {
+    "transaction_id": "TRNS-9",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": "3"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "3"
+      }
+    ],
+    "transaction_price": 92500,
+    "transaction_cash": "93500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T14:18:00Z"
+  },
+  {
+    "transaction_id": "TRNS-10",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 5
+      }
+    ],
+    "transaction_price": 124500,
+    "transaction_cash": "125500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-27T08:22:00Z"
+  },
+  {
+    "transaction_id": "TRNS-11",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 18000,
+    "transaction_cash": "18000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-25T12:45:00Z"
+  },
+  {
+    "transaction_id": "TRNS-12",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "3"
+      }
+    ],
+    "transaction_price": 78000,
+    "transaction_cash": "83000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T18:52:00Z"
+  },
+  {
+    "transaction_id": "TRNS-13",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "4"
+      }
+    ],
+    "transaction_price": 90000,
+    "transaction_cash": "91000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-25T09:22:00Z"
+  },
+  {
+    "transaction_id": "TRNS-14",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 10500,
+    "transaction_cash": "15500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-02T00:58:00Z"
+  },
+  {
+    "transaction_id": "TRNS-15",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": "5"
+      }
+    ],
+    "transaction_price": 110000,
+    "transaction_cash": "112000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-27T11:11:00Z"
+  },
+  {
+    "transaction_id": "TRNS-16",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "3"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 66500,
+    "transaction_cash": "66500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T09:10:00Z"
+  },
+  {
+    "transaction_id": "TRNS-17",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "2"
+      }
+    ],
+    "transaction_price": 73000,
+    "transaction_cash": "78000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T07:56:00Z"
+  },
+  {
+    "transaction_id": "TRNS-18",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": "5"
+      }
+    ],
+    "transaction_price": 104000,
+    "transaction_cash": "104000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T23:36:00Z"
+  },
+  {
+    "transaction_id": "TRNS-19",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 82000,
+    "transaction_cash": "83000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T20:59:00Z"
+  },
+  {
+    "transaction_id": "TRNS-20",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": "4"
+      }
+    ],
+    "transaction_price": 104500,
+    "transaction_cash": "109500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T08:00:00Z"
+  },
+  {
+    "transaction_id": "TRNS-21",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 43000,
+    "transaction_cash": "44000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-25T08:08:00Z"
+  },
+  {
+    "transaction_id": "TRNS-22",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 41500,
+    "transaction_cash": "41500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T14:22:00Z"
+  },
+  {
+    "transaction_id": "TRNS-23",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": "5"
+      }
+    ],
+    "transaction_price": 50000,
+    "transaction_cash": "52000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T13:47:00Z"
+  },
+  {
+    "transaction_id": "TRNS-24",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 125000,
+    "transaction_cash": "125000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T05:05:00Z"
+  },
+  {
+    "transaction_id": "TRNS-25",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "4"
+      }
+    ],
+    "transaction_price": 74000,
+    "transaction_cash": "75000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T14:11:00Z"
+  },
+  {
+    "transaction_id": "TRNS-26",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 5
+      }
+    ],
+    "transaction_price": 153000,
+    "transaction_cash": "154000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-25T10:34:00Z"
+  },
+  {
+    "transaction_id": "TRNS-27",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "3"
+      }
+    ],
+    "transaction_price": 98500,
+    "transaction_cash": "98500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-02T02:52:00Z"
+  },
+  {
+    "transaction_id": "TRNS-28",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 88000,
+    "transaction_cash": "93000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-25T17:44:00Z"
+  },
+  {
+    "transaction_id": "TRNS-29",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "5"
+      }
+    ],
+    "transaction_price": 97500,
+    "transaction_cash": "102500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T05:24:00Z"
+  },
+  {
+    "transaction_id": "TRNS-30",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 100000,
+    "transaction_cash": "100000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T22:51:00Z"
+  },
+  {
+    "transaction_id": "TRNS-31",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "4"
+      }
+    ],
+    "transaction_price": 78000,
+    "transaction_cash": "83000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-27T11:15:00Z"
+  },
+  {
+    "transaction_id": "TRNS-32",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 58000,
+    "transaction_cash": "58000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T21:24:00Z"
+  },
+  {
+    "transaction_id": "TRNS-33",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "5"
+      }
+    ],
+    "transaction_price": 47000,
+    "transaction_cash": "47000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T01:07:00Z"
+  },
+  {
+    "transaction_id": "TRNS-34",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 80500,
+    "transaction_cash": "81500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T18:35:00Z"
+  },
+  {
+    "transaction_id": "TRNS-35",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "2"
+      }
+    ],
+    "transaction_price": 33000,
+    "transaction_cash": "34000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-02T02:25:00Z"
+  },
+  {
+    "transaction_id": "TRNS-36",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "3"
+      }
+    ],
+    "transaction_price": 111000,
+    "transaction_cash": "111000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T08:12:00Z"
+  },
+  {
+    "transaction_id": "TRNS-37",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "2"
+      }
+    ],
+    "transaction_price": 24000,
+    "transaction_cash": "24000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-27T11:34:00Z"
+  },
+  {
+    "transaction_id": "TRNS-38",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 27500,
+    "transaction_cash": "29500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T03:56:00Z"
+  },
+  {
+    "transaction_id": "TRNS-39",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 26000,
+    "transaction_cash": "28000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T22:52:00Z"
+  },
+  {
+    "transaction_id": "TRNS-40",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "3"
+      }
+    ],
+    "transaction_price": 61000,
+    "transaction_cash": "61000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-27T13:19:00Z"
+  },
+  {
+    "transaction_id": "TRNS-41",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": 5
+      }
+    ],
+    "transaction_price": 35000,
+    "transaction_cash": "35000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T20:52:00Z"
+  },
+  {
+    "transaction_id": "TRNS-42",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "3"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 5
+      }
+    ],
+    "transaction_price": 127000,
+    "transaction_cash": "132000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T14:40:00Z"
+  },
+  {
+    "transaction_id": "TRNS-43",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 5
+      }
+    ],
+    "transaction_price": 105000,
+    "transaction_cash": "106000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T04:10:00Z"
+  },
+  {
+    "transaction_id": "TRNS-44",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "3"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 1
+      }
+    ],
+    "transaction_price": 98500,
+    "transaction_cash": "98500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T11:16:00Z"
+  },
+  {
+    "transaction_id": "TRNS-45",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 10500,
+    "transaction_cash": "15500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T22:37:00Z"
+  },
+  {
+    "transaction_id": "TRNS-46",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 5
+      }
+    ],
+    "transaction_price": 35500,
+    "transaction_cash": "40500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T12:48:00Z"
+  },
+  {
+    "transaction_id": "TRNS-47",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 25000,
+    "transaction_cash": "30000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T20:02:00Z"
+  },
+  {
+    "transaction_id": "TRNS-48",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 117000,
+    "transaction_cash": "119000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T09:57:00Z"
+  },
+  {
+    "transaction_id": "TRNS-49",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "5"
+      }
+    ],
+    "transaction_price": 73500,
+    "transaction_cash": "73500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T02:16:00Z"
+  },
+  {
+    "transaction_id": "TRNS-50",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": "3"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 56000,
+    "transaction_cash": "57000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T10:33:00Z"
+  },
+  {
+    "transaction_id": "TRNS-51",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 14000,
+    "transaction_cash": "15000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-27T13:17:00Z"
+  },
+  {
+    "transaction_id": "TRNS-52",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 126500,
+    "transaction_cash": "126500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T16:52:00Z"
+  },
+  {
+    "transaction_id": "TRNS-53",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "3"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "3"
+      }
+    ],
+    "transaction_price": 82000,
+    "transaction_cash": "87000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T04:56:00Z"
+  },
+  {
+    "transaction_id": "TRNS-54",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": "5"
+      }
+    ],
+    "transaction_price": 88000,
+    "transaction_cash": "88000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T19:06:00Z"
+  },
+  {
+    "transaction_id": "TRNS-55",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 1
+      }
+    ],
+    "transaction_price": 40500,
+    "transaction_cash": "42500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T05:49:00Z"
+  },
+  {
+    "transaction_id": "TRNS-56",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": "3"
+      }
+    ],
+    "transaction_price": 36000,
+    "transaction_cash": "41000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T07:34:00Z"
+  },
+  {
+    "transaction_id": "TRNS-57",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 55500,
+    "transaction_cash": "60500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T08:29:00Z"
+  },
+  {
+    "transaction_id": "TRNS-58",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "4"
+      }
+    ],
+    "transaction_price": 28000,
+    "transaction_cash": "28000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-25T15:22:00Z"
+  },
+  {
+    "transaction_id": "TRNS-59",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 5
+      }
+    ],
+    "transaction_price": 72000,
+    "transaction_cash": "74000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-27T01:55:00Z"
+  },
+  {
+    "transaction_id": "TRNS-60",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 48000,
+    "transaction_cash": "50000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-25T13:03:00Z"
+  },
+  {
+    "transaction_id": "TRNS-61",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 24500,
+    "transaction_cash": "29500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T11:53:00Z"
+  },
+  {
+    "transaction_id": "TRNS-62",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 40000,
+    "transaction_cash": "42000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T04:54:00Z"
+  },
+  {
+    "transaction_id": "TRNS-63",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "1"
+      }
+    ],
+    "transaction_price": 15500,
+    "transaction_cash": "16500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T21:13:00Z"
+  },
+  {
+    "transaction_id": "TRNS-64",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 135000,
+    "transaction_cash": "140000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-27T15:39:00Z"
+  },
+  {
+    "transaction_id": "TRNS-65",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 21000,
+    "transaction_cash": "23000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T02:28:00Z"
+  },
+  {
+    "transaction_id": "TRNS-66",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": "3"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 1
+      }
+    ],
+    "transaction_price": 125000,
+    "transaction_cash": "130000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-27T10:43:00Z"
+  },
+  {
+    "transaction_id": "TRNS-67",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "3"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "3"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 106000,
+    "transaction_cash": "111000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T16:18:00Z"
+  },
+  {
+    "transaction_id": "TRNS-68",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 54000,
+    "transaction_cash": "56000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T10:21:00Z"
+  },
+  {
+    "transaction_id": "TRNS-69",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 55000,
+    "transaction_cash": "57000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T23:13:00Z"
+  },
+  {
+    "transaction_id": "TRNS-70",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": "4"
+      }
+    ],
+    "transaction_price": 14000,
+    "transaction_cash": "19000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-29T03:11:00Z"
+  },
+  {
+    "transaction_id": "TRNS-71",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "1"
+      }
+    ],
+    "transaction_price": 7000,
+    "transaction_cash": "12000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T20:22:00Z"
+  },
+  {
+    "transaction_id": "TRNS-72",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 75500,
+    "transaction_cash": "75500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T16:56:00Z"
+  },
+  {
+    "transaction_id": "TRNS-73",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 1
+      }
+    ],
+    "transaction_price": 67500,
+    "transaction_cash": "68500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-02T02:17:00Z"
+  },
+  {
+    "transaction_id": "TRNS-74",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "5"
+      }
+    ],
+    "transaction_price": 24500,
+    "transaction_cash": "25500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T15:39:00Z"
+  },
+  {
+    "transaction_id": "TRNS-75",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "2"
+      }
+    ],
+    "transaction_price": 78000,
+    "transaction_cash": "79000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-02T01:45:00Z"
+  },
+  {
+    "transaction_id": "TRNS-76",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": "1"
+      }
+    ],
+    "transaction_price": 6000,
+    "transaction_cash": "6000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-29T13:30:00Z"
+  },
+  {
+    "transaction_id": "TRNS-77",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 21000,
+    "transaction_cash": "21000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T20:12:00Z"
+  },
+  {
+    "transaction_id": "TRNS-78",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": "3"
+      }
+    ],
+    "transaction_price": 86000,
+    "transaction_cash": "88000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T14:20:00Z"
+  },
+  {
+    "transaction_id": "TRNS-79",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 83000,
+    "transaction_cash": "83000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T18:05:00Z"
+  },
+  {
+    "transaction_id": "TRNS-80",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 1
+      }
+    ],
+    "transaction_price": 48500,
+    "transaction_cash": "49500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-29T09:34:00Z"
+  },
+  {
+    "transaction_id": "TRNS-81",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "2"
+      }
+    ],
+    "transaction_price": 17000,
+    "transaction_cash": "22000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T08:49:00Z"
+  },
+  {
+    "transaction_id": "TRNS-82",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": "4"
+      }
+    ],
+    "transaction_price": 48000,
+    "transaction_cash": "53000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T07:06:00Z"
+  },
+  {
+    "transaction_id": "TRNS-83",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "5"
+      }
+    ],
+    "transaction_price": 35000,
+    "transaction_cash": "36000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T22:19:00Z"
+  },
+  {
+    "transaction_id": "TRNS-84",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": "4"
+      }
+    ],
+    "transaction_price": 14000,
+    "transaction_cash": "15000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-29T20:26:00Z"
+  },
+  {
+    "transaction_id": "TRNS-85",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": 5
+      }
+    ],
+    "transaction_price": 35000,
+    "transaction_cash": "40000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-27T11:43:00Z"
+  },
+  {
+    "transaction_id": "TRNS-86",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": "2"
+      }
+    ],
+    "transaction_price": 73000,
+    "transaction_cash": "78000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T16:23:00Z"
+  },
+  {
+    "transaction_id": "TRNS-87",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 96000,
+    "transaction_cash": "97000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-27T23:42:00Z"
+  },
+  {
+    "transaction_id": "TRNS-88",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 1
+      }
+    ],
+    "transaction_price": 50000,
+    "transaction_cash": "52000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T09:20:00Z"
+  },
+  {
+    "transaction_id": "TRNS-89",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "3"
+      }
+    ],
+    "transaction_price": 61500,
+    "transaction_cash": "61500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T03:11:00Z"
+  },
+  {
+    "transaction_id": "TRNS-90",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 32000,
+    "transaction_cash": "34000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T02:16:00Z"
+  },
+  {
+    "transaction_id": "TRNS-91",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": "4"
+      }
+    ],
+    "transaction_price": 24000,
+    "transaction_cash": "26000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-26T22:52:00Z"
+  },
+  {
+    "transaction_id": "TRNS-92",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": "1"
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 37000,
+    "transaction_cash": "37000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T10:33:00Z"
+  },
+  {
+    "transaction_id": "TRNS-93",
+    "transaction_product": [
+      {
+        "product_id": "PRD-5",
+        "product_qty": 3
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": "2"
+      }
+    ],
+    "transaction_price": 54000,
+    "transaction_cash": "59000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T10:54:00Z"
+  },
+  {
+    "transaction_id": "TRNS-94",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": 5
+      }
+    ],
+    "transaction_price": 31500,
+    "transaction_cash": "31500",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T03:11:00Z"
+  },
+  {
+    "transaction_id": "TRNS-95",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": "2"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "5"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 4
+      }
+    ],
+    "transaction_price": 133000,
+    "transaction_cash": "138000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T16:01:00Z"
+  },
+  {
+    "transaction_id": "TRNS-96",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 3
+      }
+    ],
+    "transaction_price": 43000,
+    "transaction_cash": "43000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-30T09:41:00Z"
+  },
+  {
+    "transaction_id": "TRNS-97",
+    "transaction_product": [
+      {
+        "product_id": "PRD-3",
+        "product_qty": 4
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "2"
+      }
+    ],
+    "transaction_price": 47000,
+    "transaction_cash": "52000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T07:46:00Z"
+  },
+  {
+    "transaction_id": "TRNS-98",
+    "transaction_product": [
+      {
+        "product_id": "PRD-2",
+        "product_qty": 1
+      },
+      {
+        "product_id": "PRD-1",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-5",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 120000,
+    "transaction_cash": "120000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-02T02:16:00Z"
+  },
+  {
+    "transaction_id": "TRNS-99",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 2
+      }
+    ],
+    "transaction_price": 24000,
+    "transaction_cash": "29000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-28T09:31:00Z"
+  },
+  {
+    "transaction_id": "TRNS-100",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": 2
+      },
+      {
+        "product_id": "PRD-3",
+        "product_qty": "4"
+      },
+      {
+        "product_id": "PRD-2",
+        "product_qty": 5
+      },
+      {
+        "product_id": "PRD-4",
+        "product_qty": "4"
+      }
+    ],
+    "transaction_price": 96000,
+    "transaction_cash": "96000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-06-25T20:40:00Z"
+  },
+  {
+    "transaction_id": "TRNS-101",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": "100"
+      }
+    ],
+    "transaction_price": 350000,
+    "transaction_cash": "350000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T00:42:13.100Z"
+  },
+  {
+    "transaction_id": "TRNS-102",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": "1000"
+      }
+    ],
+    "transaction_price": 3500000,
+    "transaction_cash": "3500000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T00:43:00.879Z"
+  },
+  {
+    "transaction_id": "TRNS-103",
+    "transaction_product": [
+      {
+        "product_id": "PRD-4",
+        "product_qty": 1
+      }
+    ],
+    "transaction_price": 3500,
+    "transaction_cash": "5000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T00:46:58.712Z"
+  },
+  {
+    "transaction_id": "TRNS-104",
+    "transaction_product": [
+      {
+        "product_id": "PRD-1",
+        "product_qty": "50"
+      }
+    ],
+    "transaction_price": 650000,
+    "transaction_cash": "650000",
+    "transaction_tunai": true,
+    "transaction_complete": true,
+    "transaction_date": "2025-07-01T08:12:59.323Z"
+  }
+]

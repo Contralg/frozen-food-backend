@@ -1,0 +1,18 @@
+[
+  {
+    "category_id": "CTG-1",
+    "category_name": "Minuman"
+  },
+  {
+    "category_id": "CTG-2",
+    "category_name": "Makanan"
+  },
+  {
+    "category_id": "CTG-3",
+    "category_name": "Makanan Ringan"
+  },
+  {
+    "category_id": "CTG-4",
+    "category_name": "Bahan Baku"
+  }
+]
